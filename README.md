@@ -6,3 +6,6 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
+
+#Android build
+https://github.com/danilo-teixeira/flutter-layout-example/raw/master/layout-example.apk
