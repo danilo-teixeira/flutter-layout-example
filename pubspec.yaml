@@ -2,6 +2,10 @@ name: layout
 description: A new Flutter project.
 
 dependencies:
+  share: "^0.4.0"
+  composite_subscription: "^0.1.0"
+  map_view: "^0.0.12"
+  url_launcher: "^3.0.0"
   flutter:
     sdk: flutter
 
